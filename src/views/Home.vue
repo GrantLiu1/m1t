@@ -14,7 +14,7 @@ import  md from  '@/components/md'
 export default {
   name: 'Home',
   components: {
-    // HelloWorld
+    HelloWorld
     md
   }
 }
